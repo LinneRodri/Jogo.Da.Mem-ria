@@ -36,7 +36,7 @@
 }
 
 .login__button {
-background-color: #ee665c;
+background-color: #000000;
 border-radius: 8px;
 color: #fff;
 cursor: pointer;
@@ -52,3 +52,14 @@ width: 100%;
     color: #aaa;
     cursor: auto;
 }
+
+body {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    background-image: url('../images/todos.png');
+    background-size: cover;
+    min-height: 0vh;
+    align-items: center;
+    justify-content: center;
+  }
