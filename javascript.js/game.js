@@ -7,11 +7,11 @@ const characters = [
   'dragao',
   'cabecazul',
   'cabecavermelha',
-  'luiginovo',
+  'luigiverde',
   'macacomario',
   'waluigi',
   'yoshi',
-  'princesanovo',
+  'princesarosa',
   'wario',
 ];
 

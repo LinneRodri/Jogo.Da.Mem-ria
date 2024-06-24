@@ -2,7 +2,7 @@ main {
   display: flex;
   flex-direction: column;
   width: 100%;
-  background-image: url('../images/wp2647927-mario-background.png');
+  background-image: url('../images/fundoazul.png');
   background-size: cover;
   min-height: 100vh;
   align-items: center;
